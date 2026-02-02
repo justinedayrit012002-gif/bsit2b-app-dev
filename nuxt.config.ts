@@ -7,7 +7,6 @@ export default defineNuxtConfig({
   },
   vite: {
     plugins: [
-     
       vuetify({ autoImport: true }),
     ],
     vue: {
